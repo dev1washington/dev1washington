@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <div style="width: 50%;">

@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <div style="width: 50%;">
@@ -11,3 +10,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1washington&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="dev1washington's Top Languages" style="width: 50%;">
     </div>
 </div>
+## Hi there 👋

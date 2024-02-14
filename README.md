@@ -6,25 +6,27 @@
 </head>
 <body>
 
-<table >
+<table>
   <tr>
-    <td width="35.2%">
-        <!--<h2> Coluna 1</h2> --->
-        <!--<p> TÍTULO PARA O PARÁGRAFO    --->
-            <img src="https://github-readme-stats.vercel.app/api?username=dev1washington&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="dev1washington's                 Stats" >
-        </p>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=dev1washington&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="dev1washington's Stats"style="width: 100%;">
     </td>
-    <td width="35%">
-        <!--<h2> Coluna 2</h2> --->
-        <!--<p> TÍTULO PARA O PARÁGRAFO--->
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev1washington&theme=prussian&hide_border=false" alt="dev1washington's Streak">
-        </p>
+    <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev1washington&theme=prussian&hide_border=false" alt="dev1washington's Streak" style="width: 100%;">
     </td>
-    <td width="35.2%">
-        <!--<h2> Coluna 3</h2> --->
-        <!--<p> TÍTULO PARA O PARÁGRAFO--->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1washington&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="dev1washington's Top Languages" >
-        </p>
+  </tr>
+  <tr>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1washington&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="dev1washington's Top Languages" style="width: 100%;">
+    </td>
+    <td >
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+        <!-- Deixe esta célula vazia -->
     </td>
   </tr>
 </table>

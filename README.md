@@ -28,9 +28,9 @@
   <img align="center" alt="Wash-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wash-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wash-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Wash-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Wash-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Wash-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Wash-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">  
+  <img align="center" alt="Wash-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">  
     <cib-attribution-item class="attribution-wrapper" show="" product="shoreline" goldilocks="" appearance="PILL" tabindex="0"></cib-attribution-item>
     <a class="attribution-item" target="_blank" h="ID=SERP,5043.1" href="https://www.dio.me/" aria-label="DIO | Codifique o seu futuro global agora" data-citationid="691f6361-de8b-c9aa-6be3-3782bcd1b1f1">
   
